@@ -9,7 +9,6 @@ Sydney-based, full Australian work rights.
 ### Selected projects
 
 - [ai-lead-portfolio](https://github.com/CTavitian/ai-lead-portfolio): site and write-ups, plus a runnable agent eval harness
-- [Venode Labs](https://venode.ai): applied AI studio (agents, evaluations, ops automation)
 
 ### Contact
 
