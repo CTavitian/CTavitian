@@ -8,7 +8,8 @@ Sydney-based, full Australian work rights.
 
 ### Selected projects
 
-- [ai-lead-portfolio](https://github.com/CTavitian/ai-lead-portfolio): site and write-ups, plus a runnable agent eval harness
+- [ai-lead-portfolio](https://github.com/CTavitian/ai-lead-portfolio): site and write-ups
+- [agent-eval-harness](https://github.com/CTavitian/agent-eval-harness): CLI to score agent outputs against YAML fixtures
 
 ### Contact
 
