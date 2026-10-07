@@ -16,3 +16,4 @@ Portfolio and write-ups: [ctavitian.github.io/ai-lead-portfolio](https://ctaviti
 ### Contact
 
 - Email: [ctavityan@gmail.com](mailto:ctavityan@gmail.com)
+- LinkedIn: [linkedin.com/in/ctavitian](https://www.linkedin.com/in/ctavitian/)
