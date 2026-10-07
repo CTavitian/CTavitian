@@ -1,17 +1,15 @@
 ## Casper Tavitian
 
-Applied AI engineer. I build the checks that decide whether an AI agent is safe to put near real work: evaluation harnesses, trajectory checkers, approval gates and tool allow lists. Everything runs without an API key.
+I have spent 14 years running service and project delivery in construction and fire protection, from estimating and tenders to divisional budgets. I am now learning applied AI by building small tools: ways to test an agent, check what it did, and make it stop when it should not act alone.
 
-Background in engineering, delivery and field-service operations, so the projects target failures that matter on a real job.
+### Projects
 
-### Featured projects
+- [ops-trajectory-rx](https://github.com/CTavitian/ops-trajectory-rx): checks an agent run step by step and names the type of mistake
+- [agent-eval-harness](https://github.com/CTavitian/agent-eval-harness): runs YAML test cases against a fake or real agent and scores the answers
+- [side-effect-replay](https://github.com/CTavitian/side-effect-replay): records what an agent did so CI can fail on an unapproved action
+- [conformal-dispatch](https://github.com/CTavitian/conformal-dispatch): scores risk and holds back when it is unsure
 
-- [ops-trajectory-rx](https://github.com/CTavitian/ops-trajectory-rx): finds the step where an agent run went wrong and names the failure mode
-- [agent-eval-harness](https://github.com/CTavitian/agent-eval-harness): CLI that runs YAML eval suites against mock or live agents
-- [side-effect-replay](https://github.com/CTavitian/side-effect-replay): freezes agent runs into traces and gates CI on approval digests
-- [conformal-dispatch](https://github.com/CTavitian/conformal-dispatch): risk scoring that abstains when uncertain, with measured coverage
-
-Portfolio and write-ups: [ctavitian.github.io/ai-lead-portfolio](https://ctavitian.github.io/ai-lead-portfolio/)
+More on the [portfolio site](https://ctavitian.github.io/ai-lead-portfolio/). Sample data in these projects is made up and labelled as such.
 
 ### Contact
 
